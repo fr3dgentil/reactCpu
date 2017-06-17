@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Dhurjati');
+
+body {
+  font-family: 'Dhurjati', sans-serif;
+  margin: 0 23px;
+  padding: 0;
+  background-color: #055791;
+  color: #8EC6ED;
+  font-size: 20pt;
+  line-height: 135%;
+}
+
+#cpuLogo {
+  width: 200px;
+}
